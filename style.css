@@ -1,5 +1,6 @@
 body {
-  background-image: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(223,148,233,0.6951155462184874) 100%);
 }
 h1 {
   text-align: center;
